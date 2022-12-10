@@ -28,5 +28,6 @@
 
    - 💌 How to reach me **JoaquinSanMartin_22@outlook.com** 
    - 💻 My languages **C++, Python, Javascript, C#** 
+   - 💻 Self-taught Cybersecurity student
    - ⚽ Love playing football 
    - 🔴🔵 FC Barcelona fan
